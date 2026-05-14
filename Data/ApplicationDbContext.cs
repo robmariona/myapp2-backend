@@ -15,6 +15,12 @@ namespace myapp2.Data
         {
         }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            // Force the app to ignore the "Pending Changes" check and just start up
+            optionsBuilder.ConfigureWarnings(w => w.Ignore(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.PendingModelChangesWarning));
+        }
+
 
 
 
@@ -35,6 +41,7 @@ namespace myapp2.Data
             builder.Entity<Insurance>()
                 .Property(i => i.PremiumPrice)
                 .HasColumnType("decimal(18,2)");
+
         }
     }
 }
