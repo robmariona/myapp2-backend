@@ -1,0 +1,589 @@
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.csproj.AssemblyReference.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.AssemblyInfoInputs.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.AssemblyInfo.cs
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.csproj.CoreCompileInputs.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cs
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\appsettings.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.staticwebassets.runtime.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.staticwebassets.endpoints.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.exe
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.deps.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.runtimeconfig.json
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\myapp2.pdb
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tecnolab02\source\repos\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\scopedcss\bundle\myapp2.styles.css
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\scopedcss\projectbundle\myapp2.bundle.scp.css
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\pntanmgjj5-b9sayid5wm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\237cy471qo-61n19gt1b8.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\2wsv9x1bwb-xtxxf3hu2r.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\rav1v60z5b-bqjiyaj88i.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\gg0jomoyw3-c2jlpeoesf.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\10aoaewhi4-erw9l3u2r3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\wcoq56mzgd-aexeepp0ev.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\59i7pnjlgb-d7shbmvgxk.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\hmf3fdnbpw-ausgxo2sd3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\flondt5ei8-k8d9w2qqmf.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\a98hodpppi-cosvhxvwiu.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\8ywb02fl14-ub07r2b239.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\vmjhncdmpr-fvhpjtyr6v.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\inr87bjb60-b7pk76d08c.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\mo7kb864cf-fsbi9cje9m.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ua9og3yvf0-rzd6atqjts.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\2esqzgr23d-ee0r1s7dh0.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\y4xdncfeat-dxx9fxp4il.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\vwyrp8dw8n-jd9uben2k1.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\5xv1nkxrtt-khv3u5hwcm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\t3137zktql-r4e9w2rdcm.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\i7m3qjcna3-lcd1t2u6c8.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\q4j8zklx40-c2oey78nd0.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\qyay30l43i-tdbxkamptv.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\hgc0b8cfxl-j5mq2jizvt.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\9qjk89eifa-06098lyss8.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\sb5xuvcb6b-nvvlpmu67g.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\p40kie3gh2-s35ty4nyc5.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\plrskamq03-pj5nd1wqec.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\30nyklgjcn-46ein0sx1k.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\5qabg5m5vl-v0zj4ognzu.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\wtsyjue5a3-37tfw0ft22.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\zzxf3b5ykr-hrwsygsryq.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\a3u88xqemk-pk9g2wxc8p.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ke5f7j466d-ft3s53vfgj.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\3r5hhn6thy-6cfz1n2cew.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\uneuudt7rz-6pdc2jztkx.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\m1lqozlm2f-493y06b0oq.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\qkunue18nc-iovd86k7lj.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\7y87kfem43-vr1egmr9el.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\yimbb9rrhy-kbrnm935zg.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\5ruoh7w8sk-jj8uyg4cgr.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\0nxvi46sj6-y7v9cxd14o.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\zxcj8rhdan-notf2xhcfb.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ilfjx945ao-h1s4sie4z3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\sasxasn30h-63fj8s7r0e.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\2nlf8c4zoh-0j3bgjxly4.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\1bg0hyonx3-47otxtyo56.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\h0vm7lqxs8-4v8eqarkd7.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\xvvr8fs9im-356vix0kms.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\5sxnjhow8a-83jwlth58m.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\2qwxeov6f3-mrlpezrjn3.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\jbm5mwtik3-lzl9nlhx6b.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\pudokfhmzs-ag7o75518u.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\lwjzuzhxjm-x0q3zqp4vz.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\8kik13eekz-0i3buxo5is.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\obkygdflpi-o1o13a6vjx.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\quwzzhpayc-ttgo8qnofa.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\esrb6owyrw-2z0ns9nrw6.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\ks1r9y2a4z-muycvpuwrr.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\0urr6621mb-87fc7y1x7t.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\pgmrwf25vc-mlv21k5csn.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\j89h9vh4ec-7jyvtq8v1o.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\compressed\0f000r9fmb-7jyvtq8v1o.gz
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.myapp2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.myapp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.build.myapp2.props
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.myapp2.props
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.myapp2.props
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.csproj.Up2Date
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.dll
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\refint\myapp2.dll
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.pdb
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\myapp2.genruntimeconfig.cache
+C:\Users\tecnolab02\source\repos\myapp2\obj\Debug\net9.0\ref\myapp2.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\appsettings.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.staticwebassets.runtime.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.staticwebassets.endpoints.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.exe
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.deps.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.runtimeconfig.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.pdb
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\bundle\myapp2.styles.css
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\projectbundle\myapp2.bundle.scp.css
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\pntanmgjj5-b9sayid5wm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\237cy471qo-61n19gt1b8.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\2wsv9x1bwb-xtxxf3hu2r.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\rav1v60z5b-bqjiyaj88i.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\gg0jomoyw3-c2jlpeoesf.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\10aoaewhi4-erw9l3u2r3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\wcoq56mzgd-aexeepp0ev.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\59i7pnjlgb-d7shbmvgxk.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\hmf3fdnbpw-ausgxo2sd3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\flondt5ei8-k8d9w2qqmf.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\a98hodpppi-cosvhxvwiu.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\8ywb02fl14-ub07r2b239.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\vmjhncdmpr-fvhpjtyr6v.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\inr87bjb60-b7pk76d08c.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\mo7kb864cf-fsbi9cje9m.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ua9og3yvf0-rzd6atqjts.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\2esqzgr23d-ee0r1s7dh0.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\y4xdncfeat-dxx9fxp4il.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\vwyrp8dw8n-jd9uben2k1.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\5xv1nkxrtt-khv3u5hwcm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\t3137zktql-r4e9w2rdcm.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\i7m3qjcna3-lcd1t2u6c8.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\q4j8zklx40-c2oey78nd0.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\qyay30l43i-tdbxkamptv.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\hgc0b8cfxl-j5mq2jizvt.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\9qjk89eifa-06098lyss8.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\sb5xuvcb6b-nvvlpmu67g.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\p40kie3gh2-s35ty4nyc5.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\plrskamq03-pj5nd1wqec.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\30nyklgjcn-46ein0sx1k.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\5qabg5m5vl-v0zj4ognzu.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\wtsyjue5a3-37tfw0ft22.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\zzxf3b5ykr-hrwsygsryq.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\a3u88xqemk-pk9g2wxc8p.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ke5f7j466d-ft3s53vfgj.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\3r5hhn6thy-6cfz1n2cew.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\uneuudt7rz-6pdc2jztkx.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\m1lqozlm2f-493y06b0oq.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\qkunue18nc-iovd86k7lj.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\7y87kfem43-vr1egmr9el.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\yimbb9rrhy-kbrnm935zg.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\5ruoh7w8sk-jj8uyg4cgr.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\0nxvi46sj6-y7v9cxd14o.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\zxcj8rhdan-notf2xhcfb.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ilfjx945ao-h1s4sie4z3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\sasxasn30h-63fj8s7r0e.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\2nlf8c4zoh-0j3bgjxly4.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\1bg0hyonx3-47otxtyo56.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\h0vm7lqxs8-4v8eqarkd7.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\xvvr8fs9im-356vix0kms.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\5sxnjhow8a-83jwlth58m.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\2qwxeov6f3-mrlpezrjn3.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\jbm5mwtik3-lzl9nlhx6b.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\pudokfhmzs-ag7o75518u.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\lwjzuzhxjm-x0q3zqp4vz.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\8kik13eekz-0i3buxo5is.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\obkygdflpi-o1o13a6vjx.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\quwzzhpayc-ttgo8qnofa.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\esrb6owyrw-2z0ns9nrw6.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\ks1r9y2a4z-muycvpuwrr.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\0urr6621mb-87fc7y1x7t.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\pgmrwf25vc-mlv21k5csn.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\j89h9vh4ec-7jyvtq8v1o.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\compressed\0f000r9fmb-7jyvtq8v1o.gz
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.myapp2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.myapp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.build.myapp2.props
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.myapp2.props
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.myapp2.props
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.csproj.Up2Date
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\refint\myapp2.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.pdb
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\ref\myapp2.dll

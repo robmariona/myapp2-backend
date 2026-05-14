@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "myapp2.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "..\\UITesting\\UITesting.csproj",
+        "Action": "Start",
+        "DebugTarget": "UITesting"
+      }
+    ]
+  }
+]
