@@ -9,11 +9,11 @@ using myapp2.Data;
 
 #nullable disable
 
-namespace myapp2.Data.Migrations
+namespace myapp2.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260514091158_UpdateModelForSupabase")]
-    partial class UpdateModelForSupabase
+    [Migration("20260514092806_InitialPostgres")]
+    partial class InitialPostgres
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
