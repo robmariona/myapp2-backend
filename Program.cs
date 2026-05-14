@@ -74,7 +74,8 @@ var allowedOrigins = new[]
 {
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://myapp2-ui.onrender.com"   // ← We will update this later
+    "https://myapp2-ui.onrender.com",        // ← Future frontend
+    "https://myapp2-backend-72uk.onrender.com" // your current backend
 };
 
 builder.Services.AddCors(options =>
