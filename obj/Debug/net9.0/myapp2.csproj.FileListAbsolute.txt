@@ -296,6 +296,7 @@ C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bi
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\myapp2.pdb
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\DotNetEnv.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Humanizer.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -342,6 +343,9 @@ C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bi
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Npgsql.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Superpower.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.ClientModel.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -443,6 +447,7 @@ C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\ob
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cache
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.RazorAssemblyInfo.cs
+C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.sourcelink.json
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\bundle\myapp2.styles.css
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\scopedcss\projectbundle\myapp2.bundle.scp.css
@@ -587,8 +592,3 @@ C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\ob
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.pdb
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.genruntimeconfig.cache
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\ref\myapp2.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\DotNetEnv.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Npgsql.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\bin\Debug\net9.0\Superpower.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.sourcelink.json

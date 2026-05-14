@@ -5,29 +5,26 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using myapp2.Services;
-using DotNetEnv;                    // ← Add this
-using System;                       // ← For StringComparison
+using DotNetEnv;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
 
-
-
-DotNetEnv.Env.Load(); // Load .env file
+// Load .env file
+DotNetEnv.Env.Load();
 
 // --- 1. DATABASE CONFIGURATION ---
-if (!string.IsNullOrEmpty(connectionString))
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL")
+                       ?? builder.Configuration.GetConnectionString("PostgresConnection");
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    // Production (Supabase)
-    builder.Services.AddDbContext<ApplicationDbContext>(options =>
-        options.UseNpgsql(connectionString));
-}
-else
-{
-    // Local dev (SQL Server)
-    builder.Services.AddDbContext<ApplicationDbContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-}
+    // TEMPORARY: Comment out the IF logic and the SQL Server check entirely.
+    // Just call UseNpgsql directly so the tool has no choice but to use it.
+    options.UseNpgsql(string.IsNullOrEmpty(connectionString)
+        ? "Host=localhost;Database=dummy"
+        : connectionString);
+});
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
@@ -62,13 +59,13 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// --- 3. CORS (Updated with your live URL) ---
+// --- 3. CORS ---
 var allowedOrigins = new[]
 {
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://myapp2-ui.onrender.com",           // ← Your live frontend
-    "https://myapp2-ui-*.onrender.com",         // ← Safety for Render
+    "https://myapp2-ui.onrender.com",
+    "https://myapp2-ui-*.onrender.com",
     "https://myapp2-backend-72uk.onrender.com"
 };
 
@@ -77,6 +74,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowReactApp", policy =>
     {
         policy.WithOrigins(allowedOrigins)
+              .SetIsOriginAllowedToAllowWildcardSubdomains()
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
@@ -84,15 +82,18 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddScoped<IInsuranceService, InsuranceService>();
+builder.Services.AddControllers();
 
 var app = builder.Build();
+
+// --- 4. AUTOMATIC MIGRATIONS ---
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    // This applies the migration to your database (Postgres) on startup
     db.Database.Migrate();
 }
 
-// --- 4. MIDDLEWARE ---
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
