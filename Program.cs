@@ -14,16 +14,13 @@ var builder = WebApplication.CreateBuilder(args);
 DotNetEnv.Env.Load();
 
 // --- 1. DATABASE CONFIGURATION ---
+// Use the PostgresConnection key consistently
 var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL")
                        ?? builder.Configuration.GetConnectionString("PostgresConnection");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    // TEMPORARY: Comment out the IF logic and the SQL Server check entirely.
-    // Just call UseNpgsql directly so the tool has no choice but to use it.
-    options.UseNpgsql(string.IsNullOrEmpty(connectionString)
-        ? "Host=localhost;Database=dummy"
-        : connectionString);
+    options.UseNpgsql(connectionString);
 });
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
