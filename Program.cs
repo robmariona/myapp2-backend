@@ -9,31 +9,24 @@ using DotNetEnv;                    // ← Add this
 using System;                       // ← For StringComparison
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = Environment.GetEnvironmentVariable("DefaultConnection");
+
+
 
 DotNetEnv.Env.Load(); // Load .env file
 
 // --- 1. DATABASE CONFIGURATION ---
-string? connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-                       ?? Environment.GetEnvironmentVariable("DefaultConnection");
-
-if (string.IsNullOrEmpty(connectionString))
+if (!string.IsNullOrEmpty(connectionString))
 {
-    throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-}
-
-// Auto-detect which database provider to use
-if (connectionString.Contains("Server=", StringComparison.OrdinalIgnoreCase) ||
-    connectionString.Contains("Trusted_Connection=", StringComparison.OrdinalIgnoreCase))
-{
-    // Local Development → SQL Server
+    // Production (Supabase)
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
-        options.UseSqlServer(connectionString));
+        options.UseNpgsql(connectionString));
 }
 else
 {
-    // Production → Supabase PostgreSQL
+    // Local dev (SQL Server)
     builder.Services.AddDbContext<ApplicationDbContext>(options =>
-        options.UseNpgsql(connectionString));
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 }
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
@@ -93,6 +86,11 @@ builder.Services.AddCors(options =>
 builder.Services.AddScoped<IInsuranceService, InsuranceService>();
 
 var app = builder.Build();
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    db.Database.Migrate();
+}
 
 // --- 4. MIDDLEWARE ---
 if (app.Environment.IsDevelopment())
