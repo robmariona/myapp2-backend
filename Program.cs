@@ -69,13 +69,14 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
-// --- 3. CORS ---
+// --- 3. CORS (Updated with your live URL) ---
 var allowedOrigins = new[]
 {
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://myapp2-ui.onrender.com",        // ← Future frontend
-    "https://myapp2-backend-72uk.onrender.com" // your current backend
+    "https://myapp2-ui.onrender.com",           // ← Your live frontend
+    "https://myapp2-ui-*.onrender.com",         // ← Safety for Render
+    "https://myapp2-backend-72uk.onrender.com"
 };
 
 builder.Services.AddCors(options =>
