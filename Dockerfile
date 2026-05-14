@@ -5,9 +5,11 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
-COPY ["myapp2.csproj", "."]          # ← Change if your .csproj name is different
+# Copy csproj and restore (this is the most reliable way)
+COPY ["myapp2.csproj", "./"]
 RUN dotnet restore "myapp2.csproj"
 
+# Copy the rest of the files
 COPY . .
 RUN dotnet publish "myapp2.csproj" -c Release -o /app/publish
 
