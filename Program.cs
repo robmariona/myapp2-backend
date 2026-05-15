@@ -80,6 +80,7 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddScoped<IInsuranceService, InsuranceService>();
 builder.Services.AddControllers();
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
 var app = builder.Build();
 
