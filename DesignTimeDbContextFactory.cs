@@ -1,16 +1,26 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
+using Microsoft.Extensions.Configuration;
+using System.IO;
 
-namespace myapp2.Data;
-
-public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
+namespace myapp2.Data
 {
-    public ApplicationDbContext CreateDbContext(string[] args)
+    public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
     {
-        var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-        // Use your real SQL connection string here
-        optionsBuilder.UseSqlServer("Server=DESKTOP-D74S2MB\\SQLEXPRESS;Database=Almacen;Trusted_Connection=True;TrustServerCertificate=True;");
+        public ApplicationDbContext CreateDbContext(string[] args)
+        {
+            IConfigurationRoot configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.Development.json") // Reads your local dev settings
+                .Build();
 
-        return new ApplicationDbContext(optionsBuilder.Options);
+            var builder = new DbContextOptionsBuilder<ApplicationDbContext>();
+            var connectionString = configuration.GetConnectionString("PostgresConnection");
+
+            // CHANGE THIS FROM .UseSqlServer TO .UseNpgsql
+            builder.UseNpgsql(connectionString);
+
+            return new ApplicationDbContext(builder.Options);
+        }
     }
 }

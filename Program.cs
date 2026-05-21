@@ -20,7 +20,7 @@ var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL")
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseNpgsql(connectionString);
+    options.UseNpgsql(connectionString); // Make sure this is UseNpgsql, not UseSqlServer
 });
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
