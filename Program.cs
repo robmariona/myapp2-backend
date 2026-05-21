@@ -94,13 +94,11 @@ using (var scope = app.Services.CreateScope())
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseMigrationsEndPoint();
+    app.UseHttpsRedirection();
 }
-else
-{
-    app.UseExceptionHandler("/Home/Error");
-    app.UseHsts();
-}
+
+app.UseStaticFiles();
+app.UseRouting();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
