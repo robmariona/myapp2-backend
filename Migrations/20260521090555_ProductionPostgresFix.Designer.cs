@@ -12,8 +12,8 @@ using myapp2.Data;
 namespace myapp2.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260521083507_InitialPostgresMigrationClean")]
-    partial class InitialPostgresMigrationClean
+    [Migration("20260521090555_ProductionPostgresFix")]
+    partial class ProductionPostgresFix
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

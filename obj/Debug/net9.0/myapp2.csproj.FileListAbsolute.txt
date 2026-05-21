@@ -277,4 +277,3 @@ C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\ob
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.pdb
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\myapp2.genruntimeconfig.cache
 C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\ref\myapp2.dll
-C:\Users\rober\OneDrive\Documents\UEES\Ciclo 01-25\POO\Unidad 2\myapp2\myapp2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
