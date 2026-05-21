@@ -12,11 +12,11 @@ RUN dotnet restore "myapp2.csproj"
 # Copy the rest of the files
 COPY . .
 
-# --- 1. GENERATE SQL SCRIPT DURING BUILD ---
-# This installs EF tools in the SDK layer and outputs a pure SQL migration file
+# --- GENERATE POSTGRES SCRIPT WITH A DUMMY CONN STRING ---
+# We provide a fake connection string just so EF can compile the Postgres SQL structure
 RUN dotnet tool install --global dotnet-ef
 ENV PATH="$PATH:/root/.dotnet/tools"
-RUN dotnet ef migrations script -o /app/publish/migrate.sql
+RUN dotnet ef migrations script -o /app/publish/migrate.sql --connection "Host=localhost;Database=dummy;Username=postgres;Password=dummy"
 
 RUN dotnet publish "myapp2.csproj" -c Release -o /app/publish
 
@@ -25,6 +25,4 @@ WORKDIR /app
 COPY --from=build /app/publish .
 ENV ASPNETCORE_URLS=http://+:8080
 
-# --- 2. SWITCH ENTRYPOINT TO EXECUTE SCRIPT OR RUN APP ---
-# If your app code still has db.Database.Migrate(); uncommented, keep using standard entrypoint:
 ENTRYPOINT ["dotnet", "myapp2.dll"]
