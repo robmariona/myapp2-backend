@@ -10,8 +10,11 @@ using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Load .env file
-DotNetEnv.Env.Load();
+// Load .env file safely (only if it exists locally)
+if (File.Exists(".env"))
+{
+    DotNetEnv.Env.Load();
+}
 
 // --- 1. DATABASE CONFIGURATION ---
 // Use the PostgresConnection key consistently
@@ -85,11 +88,11 @@ AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 var app = builder.Build();
 
 // --- 4. AUTOMATIC MIGRATIONS ---
-// using (var scope = app.Services.CreateScope())
-// {
-//     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-//     db.Database.Migrate();
-// }
+ using (var scope = app.Services.CreateScope())
+ {
+     var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+     db.Database.Migrate();
+}
 
 if (app.Environment.IsDevelopment())
 {
